@@ -13,6 +13,7 @@ Front End
 Back End
   Node Js
   Express Js
+  Mongoose 
 
 Machine Learning model
   regression.js
